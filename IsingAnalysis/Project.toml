@@ -1,0 +1,4 @@
+name = "IsingAnalysis"
+uuid = "053b05da-2d28-4b3c-94cf-aca23a2454cf"
+authors = ["Fabian IJpelaar <87425229+f-ij@users.noreply.github.com>"]
+version = "0.1.0"
